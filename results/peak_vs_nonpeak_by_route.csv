@@ -1,0 +1,9 @@
+route,Non-Peak,Peak,extra_min_in_peak,pct_more_in_peak
+Green Park -> IT Park,23.61,33.72,10.11,42.8
+Market Street -> Station Road,11.54,16.37,4.83,41.9
+Riverside -> Old Town,15.91,22.54,6.63,41.7
+Old Town -> Mall Road,13.57,19.12,5.55,40.9
+Lake View -> University,21.06,29.13,8.07,38.3
+Airport Road -> City Center,33.57,45.96,12.39,36.9
+Station Road -> IT Park,25.36,34.7,9.34,36.8
+City Center -> University,18.37,24.82,6.45,35.1

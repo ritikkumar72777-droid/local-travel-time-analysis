@@ -1,0 +1,9 @@
+route,trips,distance_km,avg_duration_min,avg_speed_kmh
+Airport Road -> City Center,111,15.5,41.61,23.51
+Station Road -> IT Park,93,12.0,31.38,24.13
+Green Park -> IT Park,124,11.3,29.56,24.29
+Lake View -> University,115,9.8,26.4,23.58
+City Center -> University,108,8.5,22.31,24.02
+Riverside -> Old Town,125,7.6,19.2,24.95
+Old Town -> Mall Road,118,6.2,16.91,23.3
+Market Street -> Station Road,106,5.4,14.32,23.98
